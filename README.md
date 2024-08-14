@@ -1,7 +1,3 @@
-![DevOps-Steps-1-min](https://github.com/user-attachments/assets/73340995-d4ee-41d3-b4aa-53c6437b373f)
-
-
-
 
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
