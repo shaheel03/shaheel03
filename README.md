@@ -1,3 +1,8 @@
+![devops-jpeg](https://github.com/user-attachments/assets/7b3097ef-cbc5-45ee-9a7f-180e61d5b634)
+
+
+
+
 ## Hi there 👋
 
 <!--
