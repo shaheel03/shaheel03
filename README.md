@@ -1,4 +1,5 @@
-![1_DluPjzT_eTUFdzHCI7JBZA](https://github.com/user-attachments/assets/d3db7341-d403-4df1-baa3-6fdd0fd0f328)
+![DevOps-Steps-1-min](https://github.com/user-attachments/assets/73340995-d4ee-41d3-b4aa-53c6437b373f)
+
 
 
 
