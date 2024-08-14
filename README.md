@@ -3,7 +3,8 @@
 
 
 
-## Hello 👋
+## Hello ![wave](https://github.com/user-attachments/assets/4372154f-58aa-4326-967c-1b79d7c4261e) Fellow
+
 
 <!--
 **shaheel03/shaheel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
