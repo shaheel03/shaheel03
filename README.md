@@ -1,4 +1,10 @@
-
+## 🚀 Technologies and Tools:
+<p align="center">
+  <img src="https://example.com/terraform.gif" alt="Terraform" width="100"/>
+  <img src="https://example.com/git-cicd.gif" alt="Git CI/CD" width="100"/>
+  <img src="https://example.com/docker.gif" alt="Docker" width="100"/>
+  <img src="https://example.com/kubernetes.gif" alt="Kubernetes" width="100"/>
+</p>
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
