@@ -1,14 +1,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /><img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-# 👋 Welcome to My GitHub Profile!
-
-![My Banner](https://raw.githubusercontent.com/username/repo/branch/path-to-file.gif)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaheel03.shaheel03)
-
----
-
+# 👋 Welcome to My GitHub Profile Shaheel03!
 </p>
 <div size='20px'> Hi! My name is Jagdamba Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
