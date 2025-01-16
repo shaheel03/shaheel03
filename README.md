@@ -1,4 +1,4 @@
-https://private-user-images.githubusercontent.com/120407422/343454295-a0d8743f-9769-4f2f-affc-e9f75e47c567.gif?
+
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
