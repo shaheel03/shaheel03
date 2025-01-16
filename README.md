@@ -1,8 +1,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /><img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-# 👋 Welcome to My GitHub Profile Shaheel03!  
-![Waving Hand](https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif)
+<h1>👋 Welcome to My GitHub Profile Shaheel03! <img src = "https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width = 50px> </h1>
 </p>
 <div size='20px'> Hi! My name is Jagdamba Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
