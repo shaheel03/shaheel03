@@ -1,3 +1,5 @@
+<img alt="Coder GIF" height=300 width=700 src="https://imgs.search.brave.com/SYxRuKQLouvxgzg1wwp4J_pDYIMHvjoSW2EF0Znbw3I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29tcHV0/ZXItc3lzdGVtLWNv/ZGluZy1qM3N6Zmp2/OWZ3YjVhdDl4Lmdp/Zg.gif" />
+<br>
 <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /><img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
